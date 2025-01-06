@@ -1,0 +1,7 @@
+fastapi==0.115.5
+torch==2.3.0
+torchvision==0.18.0
+uvicorn==0.32.1
+wandb==0.17.6
+streamlit==1.40.2
+pytorch-fid
